@@ -1,0 +1,43 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "name": "Axmed",
+      "position": "Admin"
+    },
+    {
+      "id": 3,
+      "name": "Axmed",
+      "position": "Admin"
+    },
+    {
+      "name": "Filankes",
+      "position": "Admin",
+      "id": 4
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "PS5",
+      "type": "Game"
+    },
+    {
+      "id": 2,
+      "name": "MacBook",
+      "type": "Code"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "productId": 1,
+      "comment": "Best"
+    },
+    {
+      "id": 2,
+      "productId": 2,
+      "comment": "No Best"
+    }
+  ]
+}
